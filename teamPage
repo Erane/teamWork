@@ -53,7 +53,7 @@
             /*background: peachpuff;*/
             display: block;
             margin: 10px auto 0 auto;
-            background: url("psb.jpg") no-repeat center;
+            background: url("http://7xk7x6.com1.z0.glb.clouddn.com/psb.jpg") no-repeat center;
             background-size: cover;
         }
         .fifth p{
